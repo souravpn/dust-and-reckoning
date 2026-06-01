@@ -1,8 +1,13 @@
+<div align="center">
+
+<img src="public/dnr-image.png" width="auto" alt="Dust And Reckoning" />
+
 # Dust & Reckoning
 
 > *"Every man on this train is running from something. Most of them don't know it yet."*
 
-A narrative open-world western RPG set in Wyoming Territory, 1862. Built for iOS and iPad with Unity (URP).
+*A narrative open-world western RPG set in Wyoming Territory, 1862. Built for iOS and iPad with Unity (URP).
+</div>
 
 ---
 
