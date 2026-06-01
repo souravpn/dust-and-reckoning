@@ -4,9 +4,23 @@
 
 # Dust & Reckoning
 
-> *"Every man on this train is running from something. Most of them don't know it yet."*
+*"Every man on this train is running from something. Most of them don't know it yet."*
 
-*A narrative open-world western RPG set in Wyoming Territory, 1862. Built for iOS and iPad with Unity (URP).
+[![Unity](https://img.shields.io/badge/Unity_2023_LTS-000000?logo=unity&logoColor=white)](https://unity.com)
+[![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![iOS](https://img.shields.io/badge/iOS_16+-000000?logo=apple&logoColor=white)](https://developer.apple.com/ios/)
+[![iPadOS](https://img.shields.io/badge/iPadOS_16+-000000?logo=apple&logoColor=white)](https://developer.apple.com/ipados/)
+[![FMOD](https://img.shields.io/badge/FMOD_Studio-000000?logo=fmod&logoColor=white)](https://www.fmod.com)
+[![Yarn Spinner](https://img.shields.io/badge/Yarn_Spinner_3-2B5BE0?logo=yarn&logoColor=white)](https://yarnspinner.dev)
+[![Git LFS](https://img.shields.io/badge/Git_LFS-F64935?logo=git&logoColor=white)](https://git-lfs.com)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)](https://github.com/features/actions)
+
+[![Claude](https://img.shields.io/badge/Claude_Sonnet_4.6-D97757?logo=anthropic&logoColor=white)](https://anthropic.com)
+
+**Live at [Razor Sharp Games](https://razorsharpgames.com)**
+
+A narrative open-world western RPG set in Wyoming Territory, 1862. Built for ultimate mobile experience on iPad and iOS with Unity.
+
 </div>
 
 ---
