@@ -1,0 +1,71 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity cache and auto-generated
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Asset meta files (keep these — they store GUIDs)
+# Do NOT add *.meta to gitignore
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# FMOD — banks are generated, not tracked (tracked via Git LFS instead)
+Assets/Audio/FMOD/*.bank
+Assets/Audio/FMOD/*.bank.meta
+# Exception: keep the FMOD project file itself
+!Assets/Audio/FMOD/*.fspro
+
+# Large raw audio (tracked via Git LFS — see .gitattributes)
+# Listed here so non-LFS clones don't accidentally stage them
+Assets/Audio/Raw/*.wav
+Assets/Audio/Raw/*.aif
+Assets/Audio/Raw/*.aiff
+
+# iOS build output
+*.xcworkspace
+*.xcodeproj
+build/
+
+# Node / tooling
+node_modules/
+.npm
+
+# Crash reports
+crashlytics-build.properties
