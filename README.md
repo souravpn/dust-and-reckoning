@@ -1,6 +1,9 @@
 <div align="center">
 
+**[![Status](https://img.shields.io/badge/Status-Work_in_Progress-F5A623)]()**
+
 <img src="public/dnr-image-wide.png" width="auto" alt="Dust And Reckoning" />
+
 
 # Dust & Reckoning
 
