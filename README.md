@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/dnr-image.png" width="auto" alt="Dust And Reckoning" />
+<img src="public/dnr-image-wide" width="auto" alt="Dust And Reckoning" />
 
 # Dust & Reckoning
 
